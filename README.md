@@ -1,2 +1,22 @@
-# cloudera-documents-turkish
-The purpose of this documentation is publish the Turkish explanations of some tools on the big data.
+# Büyük veri için kullanılan bazı modüller ve açıklamaları
+- [x] HDFS DataNode
+- [x] HBase Thrift Server
+- [x] HBase RegionServer
+- [x] Hive Metastore Server
+- [x] HiveServer2
+- [ ] Hive Gateway
+- [ ] Hue Load Balancer
+- [x] Hue Server
+- [x] Hue Kerberos Ticket Renewer
+- [x] Impala Catalog Server
+- [x] Impala StateStore
+- [x] Impala Daemon
+- [ ] Kudu Master
+- [ ] Kudu Tablet Server
+- [x] Oozie Server
+- [ ] Spark 2 History Server
+- [ ] YARN (MR2 Included) JobHistory Server
+- [ ] YARN (MR2 Included) ResourceManager
+- [ ] YARN (MR2 Included) NodeManager
+- [ ] Spark 2 Gateway
+- [ ] StreamSets Data Collector
